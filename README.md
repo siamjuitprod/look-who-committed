@@ -56,7 +56,7 @@ rahul_cs_102.json
 ### Step 4: JSON format
 
 Use the following format in your file.
-
+```
 {
   "name": "Your Name",
   "rollno": "CS_[roll number]",
@@ -66,6 +66,7 @@ Use the following format in your file.
   "twitter": "https://twitter.com/your_twitter_username",
   "bio": "Your short bio goes here."
 }
+```
 
 Make sure the JSON is valid and the file name follows the format.
 
