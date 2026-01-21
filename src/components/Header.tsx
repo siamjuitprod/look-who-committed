@@ -24,7 +24,7 @@ export function Header() {
           >
             How to Contribute?
           </a>
-          <a href="https://github.com/siamjuit/OSS-Pokemon-Site" target="_blank" className=" flex   ml-6 text-gray-700 font-medium transition hover:text-indigo-600">
+          <a href="https://github.com/siamjuit/look-who-committed" target="_blank" className=" flex   ml-6 text-gray-700 font-medium transition hover:text-indigo-600">
             <Github className="h-5 w-5" />
             <img
                 className="ml-4 h-5"
