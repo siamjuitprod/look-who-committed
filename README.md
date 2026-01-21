@@ -36,9 +36,10 @@ This will create your own copy of the project on GitHub.
 
 Clone the repository to your local machine.
 
+```
 git clone https://github.com/your-username/look-who-committed.git  
 cd look-who-committed
-
+```
 ---
 
 ### Step 3: Add your file
@@ -124,4 +125,4 @@ If this project helped you:
 ---
 
 Happy committing  
-SIAM X ICP
+`SIAM X ICP`
