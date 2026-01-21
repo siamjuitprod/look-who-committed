@@ -1,6 +1,7 @@
 version: "1"
 rules:
-  - base: main  # Your fork's branch name
-    upstream: siamjuit/look-who-committed:main  # Upstream repo and branch
-    mergeMethod: merge  # or 'hardreset' to force sync
-    mergeUnstable: false  # Set to true if you want to merge even if checks fail
+  - base: main
+    upstream: siamjuit/look-who-committed:main
+    mergeMethod: hardreset  # Force sync - discards any local changes
+    autoMerge: true
+    autoMergeHardReset: true
