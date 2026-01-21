@@ -76,17 +76,19 @@ Make sure the JSON is valid and the file name follows the format.
 
 Add and commit your file.
 
+```
 git add users/your_name_rollno.json  
 git commit -m "Add contributor: Your Name"
-
+```
 ---
 
 ### Step 6: Push your changes
 
 Push the commit to your fork.
 
+```
 git push origin main
-
+```
 ---
 
 ### Step 7: Create a pull request
@@ -103,7 +105,7 @@ Once your pull request is reviewed and merged:
 - Your contributor card will appear on the site
 - You become part of the SIAM X ICP open source showcase
 
----
+
 
 ## Contribution guidelines
 
@@ -111,8 +113,6 @@ Once your pull request is reviewed and merged:
 - Do not modify other contributors’ files
 - Keep your bio short and respectful
 - Follow the file naming format
-
----
 
 ## Support the project
 
